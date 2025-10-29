@@ -24,7 +24,8 @@ plot_df =
   )
 ```
 
-Here's a plot
+Here's a plot, seems to show
+$$y_i = \beta_0 + \beta_1 x_i + \epsilon_i$$
 
 ```{r}
 plot_df |> 

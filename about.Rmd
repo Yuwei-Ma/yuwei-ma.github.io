@@ -7,3 +7,5 @@ output:
     theme: cerulean
 ---
 This website was coded by Yuwei Ma using RMarkdown to do all the hard work. 
+
+icon from [font awesome](https://fontawesome.com/)

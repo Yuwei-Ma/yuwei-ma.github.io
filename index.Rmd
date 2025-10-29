@@ -17,6 +17,6 @@ Welcome to my personal website! I'm a **biostatistics student** interested in **
 
 ---
 
-Here's a picture of Granny:
+Here's a picture of Granny (I don't have either a cat or dog so I borrowed my friends Niki's dog Granny):
 
 ![](image/granny.jpg){width=50%}
