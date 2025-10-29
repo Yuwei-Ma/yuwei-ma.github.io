@@ -1,0 +1,26 @@
+---
+title: "Academic and professional experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+## Education
+
+**Master in Biostatistics**, Columbia University Irving Medical Center (2027)
+- Focus on applied statistics, R, and data visualization.
+
+**Bachelor of Science in Biology and Math**, Brandeis University (2025)
+
+## Professional Experience
+
+**Clinical Researcher Intern**, Beijing Tongren Hosmital, CMU (Summer 2025)  
+- Followed up clinical trial projects and assisted CRCs from SMOs in conducting clinical.  
+- Developed and delivered presentations on key nodes of drug clinical trials in accordance with GCP standards
+
+## Skills
+
+- **Programming:** R, Python, SQL  
+- **Tools:** Git, RStudio, GitHub  
+- **Visualization:** ggplot2, plotly, Shiny  
