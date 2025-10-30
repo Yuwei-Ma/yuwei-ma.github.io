@@ -12,7 +12,7 @@ Welcome to my personal website! I'm a **biostatistics student** interested in **
 
 - 🏠 This is the [home page](index.html).  
 - 🎓 Check out my [academic and professional experience](experience.html).  
-- 📊 View some [plots and visualizations](plots.html).  
+- 📊 Here's the [dashboard](flexdashboard.html) for NOAA dataset  
 - ℹ️ Learn more [about this site](about.html).
 
 ---
